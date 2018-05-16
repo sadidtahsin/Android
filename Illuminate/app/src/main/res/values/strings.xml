@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Illuminate</string>
+
+    <string-array name="profileactivity">
+        <item></item>
+        <item>Profile</item>
+        <item>Update Profile</item>
+        <item>Change Password</item>
+        <item>Log Out</item>
+    </string-array>
+</resources>

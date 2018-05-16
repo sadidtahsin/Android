@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2" >
+
+
+    <Button
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Certification"
+        android:id="@+id/button" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bac">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Targets and Checkpoints"
+            android:gravity="center"
+            android:id="@+id/textView1"
+            android:background="@drawable/edit_text_bottom_line"/>
+
+        <ScrollView
+
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView1"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+
+            >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Reached Level 5 on 7th May 2016 after completion of MVC training!"
+                    android:id="@+id/textView16"
+                    android:background="@drawable/upcurve"
+                    android:padding="8dp"
+                    android:layout_marginBottom="8dp"/>
+
+                <TextView
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Special Salary packages for Rural areas, click here to see more.."
+                    android:id="@+id/textView17"
+                    android:background="@drawable/upcurve"
+                    android:padding="8dp"
+                    android:layout_marginBottom="8dp"/>
+
+                <TextView
+                    android:textColor="#ffffff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Take PDA training at BITM to increase salary level."
+                    android:id="@+id/textView15"
+                    android:background="@drawable/upcurve"
+                    android:padding="8dp"
+                    android:layout_marginBottom="8dp"/>
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bac"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Training Centers"
+            android:gravity="center"
+            android:id="@+id/textView1hgh"
+            android:background="@drawable/edit_text_bottom_line"/>
+
+        <ScrollView
+
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView1rt"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+
+            >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text=" BTTC: \n Location: Mohakhali \n Courses: Personal Development "
+                    android:id="@+id/textView16sd"
+                    android:background="@drawable/upcurve"
+                    android:padding="8dp"
+                    android:layout_marginBottom="8dp"/>
+
+                <TextView
+                    android:textColor="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text=" Coders Trust: \n Location: Gulshan 2 \n Courses: Network Technician "
+                    android:id="@+id/textView17sd"
+                    android:background="@drawable/upcurve"
+                    android:padding="8dp"
+                    android:layout_marginBottom="8dp"/>
+
+                <TextView
+                    android:textColor="#ffffff"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text=" Basis: \n Location: Kawran Bazar \n Courses:Information Science "
+                    android:id="@+id/textView15asa"
+                    android:background="@drawable/upcurve"
+                    android:padding="8dp"
+                    android:layout_marginBottom="8dp"/>
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

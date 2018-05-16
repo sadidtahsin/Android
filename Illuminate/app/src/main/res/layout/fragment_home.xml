@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3" >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bac">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Best training Options"
+            android:gravity="center"
+            android:id="@+id/textView1"
+            android:background="@drawable/edit_text_bottom_line"/>
+
+        <ScrollView
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView1"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+
+            >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="JSP at Besis"
+                    android:id="@+id/button1"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="J2EE at AIUB"
+                    android:id="@+id/button2"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Personality Devlopment Training At BTTC"
+                    android:id="@+id/button3"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Soft Skills Training"
+                    android:id="@+id/button4"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="CCNA at AIUB"
+                    android:id="@+id/button5"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Training6"
+                android:id="@+id/button6"
+                android:background="#00ffffff"
+                android:gravity="left"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Training7"
+                    android:id="@+id/button7"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Training8"
+                    android:id="@+id/button8"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Training7"
+                    android:id="@+id/button9"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Training9"
+                    android:id="@+id/button10"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Training10"
+                    android:id="@+id/button11"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bac">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="New Technologies"
+            android:gravity="center"
+            android:id="@+id/textView2"
+            android:background="@drawable/edit_text_bottom_line"/>
+        <ScrollView
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView2"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:background="@drawable/bac">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="MVC 6 Release Yesterday"
+                    android:id="@+id/button15"
+                    android:onClick="urlss"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Phone Gap and Cordova Releases"
+                    android:id="@+id/button16"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Google Launch Smart Bi-Cycle"
+                    android:id="@+id/button17"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Facebook Launches Free Internet"
+                    android:id="@+id/button18"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="TECH1"
+                    android:id="@+id/button19"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="TECH2"
+                    android:id="@+id/button20"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="TECH3"
+                    android:id="@+id/button21"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bac"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Opportunities"
+            android:gravity="center"
+            android:id="@+id/textView3"
+            android:background="@drawable/edit_text_bottom_line"
+            />
+
+        <ScrollView
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView3"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:background="@drawable/bac">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Lecturer At Ahsanullah"
+                    android:id="@+id/button40"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="Assistent Prof. At DU"
+                    android:id="@+id/button39"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="BSC Examination"
+                    android:id="@+id/button38"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="New Button"
+                    android:id="@+id/button28"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="DEVELOPER at ENOSIS"
+                    android:id="@+id/button29"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="JOB1"
+                    android:id="@+id/button30"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:text="JOB2"
+                    android:id="@+id/button31"
+                    android:background="#00ffffff"
+                    android:gravity="left"/>
+
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/logins">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="-5dp"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="250dp"
+            android:layout_height="110dp"
+            android:orientation="vertical"
+            >
+
+            <EditText
+                android:id="@+id/user_id"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/upcurve"
+                android:hint="email"
+                android:textColorHint="#ffffff"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_marginTop="0dp"
+                android:textColor="#000000"
+                />
+            <EditText
+                android:id="@+id/user_pass"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:hint="pin"
+                android:gravity="center"
+                android:textColorHint="#ffffff"
+                android:textColor="#000000"
+                android:background="@drawable/lowercurve"
+                />
+            <Button
+                android:id="@+id/login_btn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="45dp"
+                android:layout_marginRight="45dp"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:text="Log In"
+                android:onClick="onClick"
+
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:orientation="vertical"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            >
+            <Button
+                android:id="@+id/act_login_btn_register"
+                android:layout_width="200dp"
+                android:layout_height="7dp"
+                android:text="register"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:textColor="#FFFFFF"
+                android:background="#00ffffff" />
+
+
+            <Button
+                android:id="@+id/act_login_btn_forgotpassword"
+                android:layout_width="200dp"
+                android:layout_height="2dp"
+                android:text="forgotpassword"
+                android:layout_weight="1"
+                android:layout_marginRight="5dp"
+                android:onClick="onClick"
+                android:background="#00000000"
+                android:textColor="#ffffff" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
