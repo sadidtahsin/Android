@@ -1,0 +1,524 @@
+[
+    {
+        "outputFile": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 33,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endColumn": 33,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 33,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 33,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 33,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 33,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 52,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 33,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 33,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 47,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 47,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 33,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 33,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 33,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 33,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 35,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 35,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 35,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 35,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 34,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 34,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 34,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 34,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 52,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 33,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 33,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 48,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 48,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 34,
+                    "endOffset": 782
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 34,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 787,
+                    "endColumn": 33,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 33,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 35,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 35,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 33,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 33,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 33,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 33,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 35,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 35,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 33,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 33,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 34,
+                    "endOffset": 1025
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 34,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1030,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1321,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "/Users/TAMIM_/AndroidStudioProjects/Calculator/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

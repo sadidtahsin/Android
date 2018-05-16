@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "289755352780",
+    "firebase_url": "https://better-environment-master.firebaseio.com",
+    "project_id": "better-environment-master",
+    "storage_bucket": "better-environment-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289755352780:android:d3cfcfb6d58e9c99",
+        "android_client_info": {
+          "package_name": "com.itknightsbd.masterimran.betterenvironment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289755352780-4v7qirsl4lt94i22o0jj6g4uo3khvb2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itknightsbd.masterimran.betterenvironment",
+            "certificate_hash": "0524a002194ef9f1e9809fce342c282d935c0222"
+          }
+        },
+        {
+          "client_id": "289755352780-qdva4fe5f1hdm073aon5tdqhge2neghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj41jX483q2t6w9l_C7xm3vO0oeTFvUjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289755352780-qdva4fe5f1hdm073aon5tdqhge2neghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289755352780:android:35e3a7cae72a8b2d",
+        "android_client_info": {
+          "package_name": "com.masterimran.betterenvironment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289755352780-3913apm30919k40cplgp5kp9uu84ni96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masterimran.betterenvironment",
+            "certificate_hash": "59e35dddf3ab1fef8b54c8207ce5862ef5c0f5ab"
+          }
+        },
+        {
+          "client_id": "289755352780-qdva4fe5f1hdm073aon5tdqhge2neghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj41jX483q2t6w9l_C7xm3vO0oeTFvUjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289755352780-qdva4fe5f1hdm073aon5tdqhge2neghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289755352780:android:3efc4f38549da11e",
+        "android_client_info": {
+          "package_name": "android.example.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289755352780-qdva4fe5f1hdm073aon5tdqhge2neghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj41jX483q2t6w9l_C7xm3vO0oeTFvUjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
